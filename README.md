@@ -23,7 +23,7 @@ Este repositório é referenciado e usado por alunos de todo o mundo. Sendo um d
 
 ###### Obs:
 > - Qualquer trabalho plagiado não será fundido.
-- Melhorar os comentários e escrever os testes apropriados também são muito bem-vindos.
+> - Melhorar os comentários e escrever os testes apropriados também são muito bem-vindos.
 
 
 ## Contribuição
