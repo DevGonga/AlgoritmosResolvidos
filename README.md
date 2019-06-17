@@ -39,8 +39,8 @@ Queremos que o seu trabalho seja legível para os outros; Portanto, incentivamos
 - Se você modificou / adicionou o trabalho de documentação, verifique se o seu idioma é conciso e não contém nenhum erro de gramática.
 
 
-> Nomes hifenizados: Ligar ou separar por meio de hífen(eu-sou-um-exemplo). 
-> Nomes separados por sublinhado: Ligar ou separar por meio de sublinhados (eu_sou_um_exemplo). 
+> - Nomes hifenizados: Ligar ou separar por meio de hífen(eu-sou-um-exemplo). 
+> - Nomes separados por sublinhado: Ligar ou separar por meio de sublinhados (eu_sou_um_exemplo). 
 
 ## Conceitos basicos
 > Quando nós temos um problema, nosso objetivo é solucioná-lo. 
