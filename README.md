@@ -64,7 +64,8 @@ O VisuAlg é um programa que edita, interpreta e executa algoritmos com uma ling
 2) Instale o visualg.exe.
 
 #Apoiado por
+
 Nome  | Instituição | País
-------------- | ------------- |--------
+------------- | ------------- 
 Fabrício Gonga  | Universidade Jean Piaget Angola - Benguela | Angola
 
