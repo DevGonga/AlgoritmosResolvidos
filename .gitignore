@@ -1,3 +1,4 @@
 *.pptx
 *.pdf
 *.img
+.DS_Store
